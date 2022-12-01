@@ -1,0 +1,30 @@
+.error-msg{
+    font-size: 12px;;
+    color:red;
+    border:1px solid red;
+}
+
+
+body{
+    background: #d9f9ffab;
+  }
+  .login-form{
+    width:40%;
+    max-width:auto;
+    padding:20px;
+    margin:-4%;
+    height:auto;
+    background: rgba(177, 193, 196, 0.287);
+    position: fixed;
+      left: 50%;
+      top:30%;
+      transform: translate(-50%, 0);
+  }
+  
+  .btn{
+     border-radius:5px;
+    padding:5px; 
+  }
+  .row{
+    background: rgb(198, 202, 202);
+  }
